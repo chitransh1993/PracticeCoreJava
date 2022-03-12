@@ -1,8 +1,15 @@
 # User-specific stuff:
 .idea/
+out/
 
 # File-based project format
 *.iws
 *.iml
 # Other
 *.DS_store
+
+# Eclipse
+.project
+
+# Locally stored "Eclipse launce configurations"
+*.launch
